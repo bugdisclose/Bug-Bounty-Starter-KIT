@@ -21,14 +21,13 @@ Google Dorks
 
 --------------------------------------------
 Fuzzing 
-https://github.com/danielmiessler/SecLists
+* https://github.com/danielmiessler/SecLists
 --------------------------------------------
 Directory bruteforce
-https://github.com/maurosoria/dirsearch
+* https://github.com/maurosoria/dirsearch
 --------------------------------------------
 Finding hidden GET & POST parameters
-https://github.com/UltimateHackers/Arjun
+* https://github.com/UltimateHackers/Arjun
 -------------------------------------------
 This python script is really cool and tries to extract URLs endpoints stored in JS scripts. It works well and has helped me many times!
-https://github.com/jobertabma/relative-url-extractor
----------------------------------------------------
+* https://github.com/jobertabma/relative-url-extractor
