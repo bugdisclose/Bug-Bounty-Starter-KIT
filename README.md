@@ -10,6 +10,9 @@ A bug bounty program is a deal offered by many websites and software developers 
 2. https://github.com/EdOverflow/can-i-take-over-xyz
 3. http://www.visualsitemapper.com/
 4. https://www.wappalyzer.com/download
+5. https://bitbucket.org/LaNMaSteR53/recon-ng
+6. https://github.com/michenriksen/aquatone
+7. https://github.com/rbsec/dnscan
 ------------------------------------------------------------------------------------------------------------------------------
 Google Dorks
 * site:target.com -www
